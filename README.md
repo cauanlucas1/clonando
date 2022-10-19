@@ -1,1 +1,5 @@
-# clonando
+# ESTE É UM REPOSITÓRIO ONDE EU TESTO O COMANDO GIT CLONE
+
+### EXPERIMENTO:
+
+- começando
